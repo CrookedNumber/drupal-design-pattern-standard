@@ -26,3 +26,9 @@ Needs more Clarity
 ==================
 
 "Private" functions
+
+Markup
+======
+
+Close tags
+Quotes around attributes
