@@ -24,3 +24,5 @@ Always an API (e.g., submit hooks call "helper" functions)
 
 Needs more Clarity
 ==================
+
+"Private" functions
