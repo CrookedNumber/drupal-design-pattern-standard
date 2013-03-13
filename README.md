@@ -20,3 +20,7 @@ Order of Hooks
 
 Predictable Variable Names (e.g., $items for hook_menu())
 
+Always an API (e.g., submit hooks call "helper" functions)
+
+Needs more Clarity
+==================
