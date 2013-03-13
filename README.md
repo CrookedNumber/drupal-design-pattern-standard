@@ -22,6 +22,8 @@ Predictable Variable Names (e.g., $items for hook_menu())
 
 Always an API (e.g., submit hooks call "helper" functions)
 
+How to add an array to an array
+
 Needs more Clarity
 ==================
 
